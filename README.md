@@ -2,7 +2,7 @@
 
 This is a simple Tetris game implemented using HTML, CSS, and JavaScript.
 
-## Live Demo
+## GamaPlay
 
 You can play the game by visiting the following URL:
 [https://chae-sanghee.github.io/tetris/](https://chae-sanghee.github.io/tetris/)
